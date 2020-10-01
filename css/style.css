@@ -258,6 +258,12 @@ footer{
     cursor: pointer;
 }    
 
+.btn:active{
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: grabbing;
+}
+
 .center{
     text-align: center;
 }    
